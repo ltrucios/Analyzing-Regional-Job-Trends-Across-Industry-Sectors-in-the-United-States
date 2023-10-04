@@ -1,6 +1,6 @@
 # BA780_GroupAssigment_Group09
 
-**Project title**: Analyzing Regional Job Trends Across Industry Sectors in the United States
+**Project Title**: Analyzing Regional Job Trends Across Industry Sectors in the United States
 
 **Problem Definition**: Exploring the correlation between employment across various sectors and various economic factors such as (GDP, income index) over the past few years.
 
