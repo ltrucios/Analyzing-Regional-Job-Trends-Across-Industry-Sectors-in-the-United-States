@@ -15,19 +15,10 @@
 
 **Data source**:
 
-* United States Census Bureau (https://data.census.gov/table?q=business+dynamics&tid=BDSTIMESERIES.BDSGEO), this dataset includes information about:
-
- *State and Year wise information about Real GDP, Real Personal Income and Real Personal Consumption Expenditure, Disposable Personal Income, Per Capita Income and Expenditure
- 
- *State and Year wise information about the Regional Price Parities, Implicit Regional Price Deflator
- 
- *State and Year wise Number of jobs
-
+* United States Census Bureau (https://data.census.gov/table?q=business+dynamics&tid=BDSTIMESERIES.BDSGEO), this dataset includes information about the Business Dynamics Statictics across States and Years
 
 * Bureau of Economic Analysis U.S. Department of Commerce (https://apps.bea.gov/itable/?ReqID=70&step=1&acrdn=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNi[…]JCZWdpbiIsIi0xIl0sWyJZZWFyX0VuZCIsIi0xIl1dfQ==), this dataset includes information about:
   
  *State and Year wise information about Real GDP, Real Personal Income and Real Personal Consumption Expenditure, Disposable Personal Income, Per Capita Income and Expenditure
- 
  *State and Year wise information about the Regional Price Parities, Implicit Regional Price Deflator
- 
  *State and Year wise Number of jobs
