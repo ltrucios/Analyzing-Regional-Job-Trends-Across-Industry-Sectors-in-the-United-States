@@ -13,9 +13,9 @@
 **Motivation**: As graduate students who are looking forward to employment in the US, analyzing sector-specific opportunities, job trends and state-level economic patterns will help us make informed career choices, ensuring we put our best foot forward.
 
 
-**Data source**
+**Data source**:
 
-*United States Census Bureau (https://data.census.gov/table?q=business+dynamics&tid=BDSTIMESERIES.BDSGEO), this dataset includes information about:
+* United States Census Bureau (https://data.census.gov/table?q=business+dynamics&tid=BDSTIMESERIES.BDSGEO), this dataset includes information about:
 
  *State and Year wise information about Real GDP, Real Personal Income and Real Personal Consumption Expenditure, Disposable Personal Income, Per Capita Income and Expenditure
  
