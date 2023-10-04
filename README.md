@@ -12,5 +12,12 @@
 **Motivation**: As graduate students who are looking forward to employment in the US, analyzing sector-specific opportunities, job trends and state-level economic patterns will help us make informed career choices, ensuring we put our best foot forward.
 
 **Data source**
-* United States Census Bureau (https://data.census.gov/table?q=business+dynamics&tid=BDSTIMESERIES.BDSGEO) 
-* Bureau of Economic Analysis U.S. Department of Commerce (https://apps.bea.gov/itable/?ReqID=70&step=1&acrdn=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNi[…]JCZWdpbiIsIi0xIl0sWyJZZWFyX0VuZCIsIi0xIl1dfQ==)
+United States Census Bureau (https://data.census.gov/table?q=business+dynamics&tid=BDSTIMESERIES.BDSGEO), this dataset includes information about:
+ *State and Year wise information about Real GDP, Real Personal Income and Real Personal Consumption Expenditure, Disposable Personal Income, Per Capita Income and Expenditure
+ *State and Year wise information about the Regional Price Parities, Implicit Regional Price Deflator
+ *State and Year wise Number of jobs
+
+* Bureau of Economic Analysis U.S. Department of Commerce (https://apps.bea.gov/itable/?ReqID=70&step=1&acrdn=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNi[…]JCZWdpbiIsIi0xIl0sWyJZZWFyX0VuZCIsIi0xIl1dfQ==), this dataset includes information about:
+ *State and Year wise information about Real GDP, Real Personal Income and Real Personal Consumption Expenditure, Disposable Personal Income, Per Capita Income and Expenditure
+ *State and Year wise information about the Regional Price Parities, Implicit Regional Price Deflator
+ *State and Year wise Number of jobs
