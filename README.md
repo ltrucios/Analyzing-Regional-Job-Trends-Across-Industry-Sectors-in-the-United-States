@@ -1,15 +1,15 @@
 # BA780_GroupAssigment_Group09
 
-**Project title** : Analyzing Regional Job Trends Across Industry Sectors in the United States
+**Project title**: Analyzing Regional Job Trends Across Industry Sectors in the United States
 
-**Problem Def** : Exploring the correlation between employment across various sectors and various economic factors such as (GDP, income index) over the past few years.
+**Problem Definition**: Exploring the correlation between employment across various sectors and various economic factors such as (GDP, income index) over the past few years.
 
 * Identifying the sectors with highest and lowest employment volatility.
 * Studying the effect of economic events on jobs across sectors
 * Analyzing the rate of firm deaths (closures) across sectors and the trailing effect on GDP across states.
 
 
-**Motivation** : As graduate students who are looking forward to employment in the US, analyzing sector-specific opportunities, job trends and state-level economic patterns will help us make informed career choices, ensuring we put our best foot forward.
+**Motivation**: As graduate students who are looking forward to employment in the US, analyzing sector-specific opportunities, job trends and state-level economic patterns will help us make informed career choices, ensuring we put our best foot forward.
 
 **Data source**
 
