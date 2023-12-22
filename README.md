@@ -1,4 +1,3 @@
-# BA780_GroupAssigment_Group09
 
 **Team Members**:  Sulaiman Alhomoud, Yi-Cheng Chung, Jasmine Gohil, Leonardo Trucios Cevasco, Madhumitha Sriram, Prudhvi Lanke
 
